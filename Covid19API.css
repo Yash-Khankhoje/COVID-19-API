@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+}
+
+
+
+
+
+
+.container-style{
+    height: 100%;
+    background-color: burlywood;
+    background-image: url("Covid19API3.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.heading-style{
+    color: navy;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.country-style{
+    text-align: right;
+}
+
+.button_row-style{
+    text-align: center;
+}
+
+.button-style{
+    padding: 1%;
+    border-color: royalblue;
+    background-color: orange;
+}
+.output-style{
+    margin-left: 7%;
+}
